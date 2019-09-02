@@ -1,5 +1,7 @@
 # Learning SQL
 
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/spodin/learning-sql?style=flat-square)
+
 MySQL with example schema from "[Learning SQL](https://www.oreilly.com/library/view/learning-sql/0596007272)" book by Alan Beaulieu.
 
 [Example files source](https://resources.oreilly.com/examples/9780596007270)
